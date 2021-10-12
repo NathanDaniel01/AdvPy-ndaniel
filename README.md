@@ -30,13 +30,13 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | Hello World |
-| Description | A basic hello world program |
-| Due Date | 1-Jan-20 |
+| Name | Hangman |
+| Description | A basic Hangman on a CLI |
+| Due Date | 12-Oct-21 |
 | Status | Done |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
-| Self Grade | 100/100 |
-| Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
+| Location | https://github.com/NathanDaniel01/AdvPy-ndaniel |
+| Self Grade | 98/100 |
+| Notes | completed all the requirements and tested program many times; meets all criteria but lack of comments; screenshot found in the same location |
 
 ### Assignment #2
 
