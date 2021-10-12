@@ -22,7 +22,7 @@
 | Description | set up developer enviroment |
 | Due Date | 31-Aug-21 |
 | Status | Done |
-| Location | https://github.com/NathanDaniel01/AdvPy-ndaniel/test |
+| Location | https://github.com/NathanDaniel01/AdvPy-ndaniel |
 | Self Grade | 100/100 |
 | Notes | completed all the requirements|
 
