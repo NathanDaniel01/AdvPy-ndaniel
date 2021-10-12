@@ -1,0 +1,14 @@
+{
+    "players": [
+        {
+            "playerFirstName": "Alex",
+            "playerLastName": "Johnson",
+            "playerHighScore": 0
+        },
+        {
+            "playerFirstName": "NAthan",
+            "playerLastName": "DAniel",
+            "playerHighScore": 300
+        }
+    ]
+}
