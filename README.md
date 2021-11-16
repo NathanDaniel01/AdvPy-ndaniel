@@ -42,13 +42,13 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | Egypt |
-| Description | [egypt problem on Kattis](https://open.kattis.com/problems/egypt) |
-| Due Date | 1-Feb-2020 |
-| Status | In-progress |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/assignments/cpp/egypt |
-| Self Grade | - |
-| Notes | completed the solution; need to write test cases |
+| Name |  Kattis Problems |
+| Description | [3 Kattis problems](https://open.kattis.com/) |
+| Due Date | 16-Nov-2021 |
+| Status | Done |
+| Location | https://github.com/NathanDaniel01/AdvPy-ndaniel/tree/main/Kattis|
+| Self Grade | 100/100 |
+| Notes | completed a 2.0, 1.9, 1.8; building the test cases first and overall enjoyed the coding process |
 
 
 ## Labs
