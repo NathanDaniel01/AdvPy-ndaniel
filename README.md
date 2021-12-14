@@ -30,18 +30,19 @@
 
 | Name | Value |
 | :--- | :--- |
-| Name | Hello World |
-| Description | A basic hello world program |
-| Due Date | 1-Jan-20 |
+| Name | Hangman |
+| Description | A basic Hangman on a CLI |
+| Due Date | 12-Oct-21 |
 | Status | Done |
-| Location | https://github.com/rambasnet/csci000-astudent/tree/master/python/hello |
-| Self Grade | 100/100 |
-| Notes | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location |
+| Location | https://github.com/NathanDaniel01/AdvPy-ndaniel |
+| Self Grade | 98/100 |
+| Notes | completed all the requirements and tested program many times; meets all criteria but lack of comments; screenshot found in the same location |
 
 ### Assignment #2
 
 | Name | Value |
 | :--- | :--- |
+<<<<<<< HEAD
 | Name |  Kattis Problems |
 | Description | [3 Kattis problems](https://open.kattis.com/) |
 | Due Date | 16-Nov-2021 |
@@ -61,6 +62,15 @@
 | Location | https://github.com/NathanDaniel01/AdvPy-ndaniel/tree/main/FinalKattis|
 | Self Grade | 100/100 |
 | Notes | completed a 2.0, 2.1, 1.9; building the test cases first and overall enjoyed the coding process should  have  done earlyer but finnals was a  busy time. Happy to have had some fun in the class  and overall was a great seemester! |
+=======
+| Name | Kattis |
+| Description | [Kattis Problems](https://open.kattis.com/problems) |
+| Due Date | 16-Nov-201 |
+| Status | Don |
+| Location | https://github.com/NathanDaniel01/AdvPy-ndaniel |
+| Self Grade | 100 / 100|
+| Notes | completed a 1.8,1.9,2.0; I started with the test cases before writing the full main fucntion. I enjoyed the problems and want to do more in the future. I think that this was a great way to get me to do more problem solving and get me comfortable with random coding assignments!  |
+>>>>>>> ff582b572eb19af4eb841f721694c957f6f203f2
 
 
 ## Labs
