@@ -50,6 +50,18 @@
 | Self Grade | 100/100 |
 | Notes | completed a 2.0, 1.9, 1.8; building the test cases first and overall enjoyed the coding process |
 
+### Assignment FINAL
+
+| Name | Value |
+| :--- | :--- |
+| Name |  Kattis FINAL problems |
+| Description | [3 Kattis problems](https://open.kattis.com/) |
+| Due Date | 16-Nov-2021 |
+| Status | Done |
+| Location | https://github.com/NathanDaniel01/AdvPy-ndaniel/tree/main/FinalKattis|
+| Self Grade | 100/100 |
+| Notes | completed a 2.0, 2.1, 1.9; building the test cases first and overall enjoyed the coding process should  have  done earlyer but finnals was a  busy time. Happy to have had some fun in the class  and overall was a great seemester! |
+
 
 ## Labs
 
