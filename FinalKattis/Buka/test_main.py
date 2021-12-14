@@ -24,6 +24,10 @@ class Test_Buka(unittest.TestCase):
         ans = multiply(500,100)
         correct = 50000
         self.assertEqual(ans,correct)
+    def test3_Multipy(self):
+        ans = multiply(100,80)
+        correct = 8000
+        self.assertEqual(ans,correct)
    
     
 if __name__ == "__main__":

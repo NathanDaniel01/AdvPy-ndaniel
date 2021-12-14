@@ -36,7 +36,7 @@ def Compare(data1, data2):
                 newdata2.append(data2[i]) 
                 newdata1.append(data2[i]) 
     
-    #printnumbers(newdata1,newdata2)
+    printnumbers(newdata1,newdata2)
     return(newdata1)
 
 def printnumbers(newdata1,newdata2):
@@ -47,16 +47,16 @@ def printnumbers(newdata1,newdata2):
     for i in reversed(range(len(newdata2))):
         printdata2 = printdata2 + newdata2[i] * pow (10, i) 
     if len(newdata1) == 0:
-       # print('YODA')
-        #print(printdata2)
+        print('YODA')
+        print(printdata2)
         return "1YODA"
     elif len(newdata2) == 0:
-       # print(printdata1)
-       # print('YODA')
+        print(printdata1)
+        print('YODA')
         return "2YODA"
     else: 
-       #print(printdata1)
-       # print(printdata2)
+        print(printdata1)
+        print(printdata2)
         return printdata1
 def main():
    

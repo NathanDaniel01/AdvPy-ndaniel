@@ -40,7 +40,7 @@ class Test_Yoda(unittest.TestCase):
         print(ans)
         correct = "1YODA"
         self.assertEqual(ans,correct)
-    def test2_print(self):
+    def test3_print(self):
         arr1 = [8,7,6,5]
         arr2 = []
         ans = printnumbers(arr1,arr2)
